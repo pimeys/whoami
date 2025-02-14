@@ -49,6 +49,7 @@
 //!
 //! [`OsString`]: std::ffi::OsString
 
+#![feature(wasip2)]
 #![warn(
     anonymous_parameters,
     missing_copy_implementations,
